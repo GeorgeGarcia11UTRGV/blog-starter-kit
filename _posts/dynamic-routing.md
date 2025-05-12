@@ -5,7 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2025-05-12T05:35:07.322Z"
 author:
   name:
-   picture:
+  picture:
 ogImage:
  url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
