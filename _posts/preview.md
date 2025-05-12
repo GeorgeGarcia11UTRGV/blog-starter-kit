@@ -1,11 +1,11 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "What I want to learn"
+excerpt: "As I try to get my bachelor's degree in computer science I want to take most of my learning and put it into game designing or game development. I mainly want to focus on these two subject when it comes to computer science I always wanted to create video games not matter how long it takes me to make it. I will always be proud of my work."
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-05-12T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name:
+  picture:
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
