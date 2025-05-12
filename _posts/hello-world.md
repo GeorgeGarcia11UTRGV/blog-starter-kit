@@ -1,11 +1,11 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Game Designing in 3-D"
+excerpt: "I was never interested in 3-D game designing but I always love to see the process of someone making a 3-D game. It always peaks my interests as a Computer Science student."
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-05-12T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+  name:
+  picture:
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
